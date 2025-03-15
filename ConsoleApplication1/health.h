@@ -4,6 +4,6 @@
 #include <iostream>
 inline radiation(int health);
 
-void RepeatRadiation(int &health, int time);
+void RepeatRadiation(int &health, int times);
 
 #endif
