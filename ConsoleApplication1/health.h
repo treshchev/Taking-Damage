@@ -1,9 +1,13 @@
-#ifndef HEALTH_H
+#ifndef HEALTH_H // Restart protection
 #define HEALTH_H
 
 #include <iostream>
-inline radiation(int health);
 
-void RepeatRadiation(int &health, int times);
+// Function to reduce health
+inline int radiation(int health);
 
-#endif
+// Function to repeat the process of decreasing health
+void RepeatRadiation(int& health, int times);
+
+#endif // HEALTH_H
+
