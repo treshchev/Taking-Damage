@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{AA2EB194-DFA7-4CF5-9946-2825EB0B92D2}|ConsoleApplication1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA2EB194-DFA7-4CF5-9946-2825EB0B92D2}|ConsoleApplication1.vcxproj|C:\\Users\\letsg\\Documents\\GitHub\\Taking-Damage\\ConsoleApplication1\\Health.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AA2EB194-DFA7-4CF5-9946-2825EB0B92D2}|ConsoleApplication1.vcxproj|solutionrelative:Health.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AA2EB194-DFA7-4CF5-9946-2825EB0B92D2}|ConsoleApplication1.vcxproj|C:\\Users\\letsg\\Documents\\GitHub\\Taking-Damage\\ConsoleApplication1\\health.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AA2EB194-DFA7-4CF5-9946-2825EB0B92D2}|ConsoleApplication1.vcxproj|solutionrelative:health.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2EB194-DFA7-4CF5-9946-2825EB0B92D2}|ConsoleApplication1.vcxproj|C:\\Users\\letsg\\Documents\\GitHub\\Taking-Damage\\ConsoleApplication1\\Health.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA2EB194-DFA7-4CF5-9946-2825EB0B92D2}|ConsoleApplication1.vcxproj|solutionrelative:Health.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,27 +36,27 @@
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\letsg\\Documents\\GitHub\\Taking-Damage\\ConsoleApplication1\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-15T09:20:26.468Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Health.cpp",
               "DocumentMoniker": "C:\\Users\\letsg\\Documents\\GitHub\\Taking-Damage\\ConsoleApplication1\\Health.cpp",
               "RelativeDocumentMoniker": "Health.cpp",
               "ToolTip": "C:\\Users\\letsg\\Documents\\GitHub\\Taking-Damage\\ConsoleApplication1\\Health.cpp",
               "RelativeToolTip": "Health.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA4AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-12T12:42:51.692Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "health.h",
               "DocumentMoniker": "C:\\Users\\letsg\\Documents\\GitHub\\Taking-Damage\\ConsoleApplication1\\health.h",
               "RelativeDocumentMoniker": "health.h",
